@@ -16,7 +16,6 @@ import reactor.core.publisher.Mono;
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 
 /**
- * @author: wangx
  * @date: 2022-05-17 16:31
  * @description:
  */
